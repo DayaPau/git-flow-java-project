@@ -1,0 +1,19 @@
+*   4f59593 (HEAD -> develop, origin/develop) Merge pull request #4 from DayaPau/feature/saludo-multilingue
+|\  
+| * aaf0e76 feat: agregar saludo multilingue
+|/  
+*   f495742 Merge pull request #3 from DayaPau/release/v1.1.0
+|\  
+| | *   416a501 (origin/main, origin/HEAD, main) Merge pull request #2 from DayaPau/release/v1.1.0
+| | |\  
+| | |/  
+| |/|   
+| * | c422ff7 release: preparar version v1.1.0 con logo ASCII
+|/ /  
+* |   eacd6de Merge pull request #1 from DayaPau/feature/despedida-personalizada
+|\ \  
+| * | 9d997bc feat: agregar despedida personalizada
+|/ /  
+* / 1edfac5 chore: crear proyecto Java base
+|/  
+* 1423cc0 Initial commit
